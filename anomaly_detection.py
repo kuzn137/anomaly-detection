@@ -29,18 +29,6 @@ https://www.dropbox.com/s/tud9bp35fukegah/data.csv?dl=0
 o  first column: timestamp
 o second column: CPU utilization in percentage
 
-Rules
-* You need to finish the project independently.
-* You are welcome to use Google for inspiration, however we have zero tolerance for plagiarism.
-* Sharing code or data outside of this project is not permitted.
-  This includes making code or data available to other candidates.
-* You have up to a week to finish your project and get ready for the onsite interview.
-  Once your project is done, please send us your code for reviewing.
-  It can be hosted in github, bitbucket, etc.
-  Or you can simply compress the project and send it to us at: ksheng@equinix.com
-* You are welcome to email us if you need clarification on the project requirements.
-* You can write your solution in any programming language that you choose.
-  Your coding skills will be evaluated further when you come on site.
 """
 from __future__ import absolute_import, division, print_function
 
