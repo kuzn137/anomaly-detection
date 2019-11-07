@@ -11,56 +11,6 @@ Created on Fri Sep 22 11:01:00 2017
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""
-Resource Utilization Anomaly Detection
-
-Description
-In a large data center there are many different devices that make up the entire network fabric.
-The health of these devices and their statuses need to be closely monitored so that early device failures
- can be detected in order to prevent any unnecessary downtime.
- One of the important health indicators is CPU utilization.
-
-In this project you are required to analyze CPU utilization data (CUD) of a machine.
-Additionally, we ask that you implement a feature that will automatically
-detect any CUD anomalies in real-time without the need of configuring a threshold.
-
-Bonus Points:
-* Implement your solution using a big data analytics framework such as Spark Streaming
-* Provide a front-end UI implementation with the following features (in order of difficulty):
-o illustration of CPU utilization
-o illustration of anomalies collected
-o ability to choose a specific time window and view CPU utilization and/or anomalies for that time window
-o real-time updates for time-series data and anomalies detected
-
-Date Files:
-* Please download datasets from:
-https://www.dropbox.com/s/tud9bp35fukegah/data.csv?dl=0
-* data.csv: the training set. It has two fields:
-o  first column: timestamp
-o second column: CPU utilization in percentage
-
-Rules
-* You need to finish the project independently.
-* You are welcome to use Google for inspiration, however we have zero tolerance for plagiarism.
-* Sharing code or data outside of this project is not permitted.
-  This includes making code or data available to other candidates.
-* You have up to a week to finish your project and get ready for the onsite interview.
-  Once your project is done, please send us your code for reviewing.
-  It can be hosted in github, bitbucket, etc.
-  Or you can simply compress the project and send it to us at: ksheng@equinix.com
-* You are welcome to email us if you need clarification on the project requirements.
-* You can write your solution in any programming language that you choose.
-  Your coding skills will be evaluated further when you come on site.
-"""
-
-
-
-
-
-"""
-This code depends on the following packages:
-    pip install pandas matplotlib statsmodels sklearn numpy pandas
-"""
 
 import sys
 import pandas as pd
