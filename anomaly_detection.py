@@ -14,15 +14,8 @@ In this project you are required to analyze CPU utilization data (CUD) of a mach
 Additionally, we ask that you implement a feature that will automatically
 detect any CUD anomalies in real-time without the need of configuring a threshold.
 
-Bonus Points:
-* Implement your solution using a big data analytics framework such as Spark Streaming
-* Provide a front-end UI implementation with the following features (in order of difficulty):
-o illustration of CPU utilization
-o illustration of anomalies collected
-o ability to choose a specific time window and view CPU utilization and/or anomalies for that time window
-o real-time updates for time-series data and anomalies detected
-
 Date Files:
+
 * Please download datasets from:
 https://www.dropbox.com/s/tud9bp35fukegah/data.csv?dl=0
 * data.csv: the training set. It has two fields:
