@@ -6,4 +6,4 @@ libraries: os, sys, statsmodels, pandas, scikitlearn,
 
 Author Inga Kuznetsova
 
-files: 
+files: anomaly_detection.py, anomaly_detection_part2.py
