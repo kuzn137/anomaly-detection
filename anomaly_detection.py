@@ -16,8 +16,7 @@ detect any CUD anomalies in real-time without the need of configuring a threshol
 
 Date Files:
 
-* Please download datasets from:
-https://www.dropbox.com/s/tud9bp35fukegah/data.csv?dl=0
+Private dataset:
 * data.csv: the training set. It has two fields:
 o  first column: timestamp
 o second column: CPU utilization in percentage
